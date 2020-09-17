@@ -4,7 +4,7 @@ This repository is for sharing solutions of old homeworks of Programming with Gr
 ## Considerations:
 These Python files are not written in Pythonic way. Professor asked us to use Doxygen to generate documentation and this destroyed the code. I plan to refactor the code in future to a pythonic code.
 
-## Licence:
+## License:
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
